@@ -1,0 +1,7 @@
+
+
+
+#1 Fail after a long period of time of being on
+--after repeatedly running the programme with a single flashair wifi logon, the programme crashes on run
+--probably has something to do with the flahsair card
+Workaround: turn the camera off, disconnect from the wifi network. Turn camera back on, connect to wifi network again.
