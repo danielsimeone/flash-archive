@@ -26,6 +26,10 @@ Issues:
 --if you are not connected to the 'flashair' network that the Toshiba flashair uses as its default, then the programme will crash
 
 
+Collaboration: --if you would like to help with the project in any way, email me at daniel.simeone@gmail.com, and I'll add you as a collaborator. If there are several people who do so, I'll make a mailing list.
+
+
+
 
 -----Licence ----
 
