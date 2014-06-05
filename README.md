@@ -14,13 +14,21 @@ using a Toshiba FlashAir SD card with WIFI in a Sony Alpha 35 camera (should wor
 
 Needs to be done:
 cleaning up and standardizing the code - re-writing with objects to facilitate multi-platform and multi-hardware configurations - it is pure functions at present
+
 standardizing window tool kits
+
 setting up good command line options
+
 making code ready to take options for different OS, cards, etc.
+
 have a image-name only (no transfer) option, to deal with high battery usage if transferring lots of photographs - a script to copy them over later would also be generated. (by putting the SD card into a local reader, rather than using the wifi transfer)
+
 allow a session to be re-started, jumping straight into the transfer stage
+
 support for other SD card/WIFI combos.  If you have one, let me know, and we can try to add that in.
+
 Windows and OSX support. The latter should be easy enough, and for the former, I've no idea. Might be easy too. I don't use either, so your help testing would be useful.
+
 longterm - use some sort of network library to negotiate the WIFI connection with the flashair, and if really ambitions (perhaps command line option), drop the network connection and re-connect to your regular one when the session is done. Clearly, this would be OS dependent, and perhaps more involved than that.
 
 Issues:
