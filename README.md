@@ -1,5 +1,8 @@
 SD card with wifi + paper archival source +flash-archive = efficiently dealing with archival materials
 
+This is useful if you do a lot of work with paper-based archival sources, and need to keep track of the images and the bibliographic information.
+It calls up a graphical interface and prompts you for  bibliographic information. once entered, it creates a unique subdirectory with the biblio info (presently in BibTeX format), into which photographs taken are automatically transferred.
+
 
 At present, this script is known to work:
 --from the linux command line (tested on ubuntu)
@@ -15,7 +18,12 @@ Needs to be done:
 --standardizing window tool kits
 --setting up good command line options
 --making code ready to take options for different OS, cards, etc.
+--have a image-name only (no transfer) option, to deal with high battery usage if transferring lots of photographs - a script to copy them over later would also be generated. (by putting the SD card into a local reader, rather than using the wifi transfer)
+--allow a session to be re-started, jumping straight into the transfer stage
+--longterm - use some sort of network library to negotiate the WIFI connection with the flashair, and if really ambitions (perhaps command line option), drop the network connection and re-connect to your regular one when the session is done. Clearly, this would be OS dependent, and perhaps more involved than that.
 
+Issues:
+--if you are not connected to the 'flashair' network that the Toshiba flashair uses as its default, then the programme will crash
 
 
 
