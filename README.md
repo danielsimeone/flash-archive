@@ -16,6 +16,8 @@ Needs to be done:
 --setting up good command line options
 --making code ready to take options for different OS, cards, etc.
 
+Collaboration:
+--if you would like to help with the project in any way, email me at daniel.simeone@gmail.com, and I'll add you as a collaborator. If there are several people who do so, I'll make a mailing list.
 
 
 
