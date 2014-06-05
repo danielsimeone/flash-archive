@@ -1,3 +1,6 @@
+flash-archive
+=============
+
 SD card with wifi + paper archival source +flash-archive = efficiently dealing with archival materials
 
 This is useful if you do a lot of work with paper-based archival sources, and need to keep track of the images and the bibliographic information.
@@ -49,5 +52,4 @@ Collaboration: --if you would like to help with the project in any way, email me
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
 
